@@ -1,0 +1,17 @@
+D:\beadando\boardgame\bin\Debug\net8.0-windows\boardgame.exe
+D:\beadando\boardgame\bin\Debug\net8.0-windows\boardgame.deps.json
+D:\beadando\boardgame\bin\Debug\net8.0-windows\boardgame.runtimeconfig.json
+D:\beadando\boardgame\bin\Debug\net8.0-windows\boardgame.dll
+D:\beadando\boardgame\bin\Debug\net8.0-windows\boardgame.pdb
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.Form1.resources
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.Menuform.resources
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.csproj.GenerateResource.cache
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.GeneratedMSBuildEditorConfig.editorconfig
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.AssemblyInfoInputs.cache
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.AssemblyInfo.cs
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.csproj.CoreCompileInputs.cache
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.dll
+D:\beadando\boardgame\obj\Debug\net8.0-windows\refint\boardgame.dll
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.pdb
+D:\beadando\boardgame\obj\Debug\net8.0-windows\boardgame.genruntimeconfig.cache
+D:\beadando\boardgame\obj\Debug\net8.0-windows\ref\boardgame.dll
