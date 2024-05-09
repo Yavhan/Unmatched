@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\beadando\\boardgame\\boardgame.csproj": {}
+    "C:\\Users\\artur\\source\\repos\\Unmatched2\\boardgame.csproj": {}
   },
   "projects": {
-    "D:\\beadando\\boardgame\\boardgame.csproj": {
+    "C:\\Users\\artur\\source\\repos\\Unmatched2\\boardgame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\beadando\\boardgame\\boardgame.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Unmatched2\\boardgame.csproj",
         "projectName": "boardgame",
-        "projectPath": "D:\\beadando\\boardgame\\boardgame.csproj",
+        "projectPath": "C:\\Users\\artur\\source\\repos\\Unmatched2\\boardgame.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "D:\\beadando\\boardgame\\obj\\",
+        "outputPath": "C:\\Users\\artur\\source\\repos\\Unmatched2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

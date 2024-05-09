@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\beadando\\boardgame\\",
+  "WorkspaceRootPath": "C:\\Users\\artur\\source\\repos\\Unmatched2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|d:\\beadando\\boardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|D:\\beadando\\boardgame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|D:\\beadando\\boardgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|D:\\beadando\\boardgame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\mycharacters.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:mycharacters.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|c:\\users\\artur\\source\\repos\\unmatched2\\mycharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:mycharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|C:\\Users\\artur\\source\\repos\\Unmatched2\\mycharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7713E91A-2734-4555-970D-A9C7133389D6}|boardgame.csproj|solutionrelative:mycharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menuform.cs",
-              "DocumentMoniker": "D:\\beadando\\boardgame\\Menuform.cs",
-              "RelativeDocumentMoniker": "Menuform.cs",
-              "ToolTip": "D:\\beadando\\boardgame\\Menuform.cs",
-              "RelativeToolTip": "Menuform.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Template.cs",
+              "RelativeDocumentMoniker": "Template.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Template.cs",
+              "RelativeToolTip": "Template.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA8wBoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:39:36.245Z",
+              "WhenOpened": "2024-05-09T18:05:02.599Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menuform.cs [Design]",
-              "DocumentMoniker": "D:\\beadando\\boardgame\\Menuform.cs",
-              "RelativeDocumentMoniker": "Menuform.cs",
-              "ToolTip": "D:\\beadando\\boardgame\\Menuform.cs [Design]",
-              "RelativeToolTip": "Menuform.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:39:01.117Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\beadando\\boardgame\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\beadando\\boardgame\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "Template.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Template.cs",
+              "RelativeDocumentMoniker": "Template.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Template.cs [Design]",
+              "RelativeToolTip": "Template.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:38:26.89Z",
+              "WhenOpened": "2024-05-09T18:04:58.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:07:47.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\beadando\\boardgame\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\beadando\\boardgame\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:37:40.969Z",
+              "WhenOpened": "2024-05-09T17:07:44.276Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mycharacters.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.Designer.cs",
+              "RelativeDocumentMoniker": "Mycharacters.Designer.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.Designer.cs",
+              "RelativeToolTip": "Mycharacters.Designer.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAYwKQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:04:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mycharacters.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.cs",
+              "RelativeDocumentMoniker": "Mycharacters.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.cs [Design]",
+              "RelativeToolTip": "Mycharacters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:54:47.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mycharacters.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.cs",
+              "RelativeDocumentMoniker": "Mycharacters.cs",
+              "ToolTip": "C:\\Users\\artur\\source\\repos\\Unmatched2\\Mycharacters.cs",
+              "RelativeToolTip": "Mycharacters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:32:50.447Z",
+              "EditorCaption": ""
             }
           ]
         }
